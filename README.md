@@ -1,5 +1,5 @@
 # QuanLiSinhVien-PHP
 
 - PDO MySQL
-- CRUD Database
+- CRUD
 - Design MVC
