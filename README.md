@@ -1,4 +1,4 @@
-# QuanLiSinhVien-PHP
+# Student Management
 
 - PDO MySQL
 - CRUD
